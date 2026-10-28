@@ -1,3 +1,6 @@
 # Complied Rust executables
 main
 main.exe
+
+# Cargo build output
+target/
